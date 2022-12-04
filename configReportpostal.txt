@@ -1,0 +1,4 @@
+rp.endpoint = http://localhost:8080
+rp.uuid = 5cf3dcb8-a503-4e3c-b8bd-0e69bc82efd9
+rp.launch = <launchName>
+rp.project = superadmin_personal
